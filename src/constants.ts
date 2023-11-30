@@ -1,6 +1,6 @@
 /// ------ DO NOT CHNAGE ------
 export const saltedUniversalProfileFactoryAddress =
-	'0x4bFbd0c7349b975775b0250a1d48AA8B83e96c86';
+	'0x28462e39918Dcf8cc736194dFb1798162Cea52a1';
 
 export const lsp23Address = '0x2300000A84D25dF63081feAa37ba6b62C4c89a30';
 export const upPostDeploymentModuleAddress =
